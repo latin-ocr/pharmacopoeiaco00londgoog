@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeiaco00londgoog_0010.png"; bbox 0 0 2978 4942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 181 479 1458 650">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 181 472 1458 650">
+     <span class='ocr_line' id='line_1_1' title="bbox 181 479 1458 650; baseline 0.035 -46"><span class='ocrx_word' id='word_1_1' title='bbox 181 479 1358 638; x_wconf 56' lang='lat' dir='ltr'>PHARMACOPOEMJ‘</span> <span class='ocrx_word' id='word_1_2' title='bbox 1456 645 1458 650; x_wconf 80' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 335 939 1054 1098">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 335 939 1054 1098">
+     <span class='ocr_line' id='line_1_2' title="bbox 335 939 1054 1098; baseline 0.029 -21"><span class='ocrx_word' id='word_1_3' title='bbox 335 939 691 1085; x_wconf 61' lang='lat' dir='ltr'><strong>commu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 729 989 1054 1098; x_wconf 80' lang='lat' dir='ltr'><strong>REGALIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 281 1430 1100 1588">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 281 1430 1100 1588">
+     <span class='ocr_line' id='line_1_3' title="bbox 281 1430 1100 1588; baseline 0.024 -20"><span class='ocrx_word' id='word_1_5' title='bbox 281 1430 1100 1588; x_wconf 78' lang='lat' dir='ltr'>MEDICORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 413 1945 966 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 413 1945 966 2052">
+     <span class='ocr_line' id='line_1_4' title="bbox 413 1945 966 2052; baseline 0.024 -16"><span class='ocrx_word' id='word_1_6' title='bbox 413 1945 966 2052; x_wconf 84' lang='lat' dir='ltr'><strong><em>LONDINENSIS.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 506 2419 866 2504">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 506 2419 866 2504">
+     <span class='ocr_line' id='line_1_5' title="bbox 506 2419 866 2504; baseline 0.025 -10"><span class='ocrx_word' id='word_1_7' title='bbox 506 2419 866 2504; x_wconf 87' lang='lat' dir='ltr'><strong>M.DCCC.XXIV.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1494 4942">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1494 4942">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1494 4942; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1494 4942; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
